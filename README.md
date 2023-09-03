@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# 📚 STACKS
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1693756219604?alt=media&token=b801b8d3-9dfe-4ca9-9f97-0f09fcaab9da)](https://github.com/msdio/stackticon)
+
+
 <!--
 **m1njunK/m1njunK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
